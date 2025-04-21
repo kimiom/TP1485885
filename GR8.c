@@ -2,7 +2,7 @@
 #include<stdlib.h>
 typedef struct Noeud{
     int valeur;
-    struct Noeud *suivant;
+    struct Noeud *sui,hhhhhhhhhhhhhhhvant;
 }Noeud;
 
 Noeud * cree(int _value){
